@@ -5,3 +5,5 @@ I made a clone of the **Shopify** home page using Tailwind and HTML/CSS. I tried
 >![Shopify Home Clone Image](assets/shopify-ss.png)
 
 > And I Finished this project in approx 10 hours.
+>
+> shopify-home-clone.vercel.app
